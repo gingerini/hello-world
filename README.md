@@ -1,7 +1,9 @@
 # hello-world
 
-This is in <i>italics</i>.
+<i>HTML italics</i>.
 No, read <i>me</i>!!!
+
+Native *Markdown italics*.
 
 Here's a list:
 
@@ -9,4 +11,3 @@ Here's a list:
 
 * Cats (for Kelly)
 
-Native *italics*.
